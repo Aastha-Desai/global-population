@@ -24,7 +24,7 @@ An interactive web application to visualize and analyze global population data. 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5:** Markup structure.
 - **CSS3:** Styling and responsive design.
